@@ -1,0 +1,19 @@
+{
+	"status":1,
+	"result":{
+		"totalMoney":59,
+		"province":[					
+					{
+						"name":"广东"
+					},
+					{
+						"name":"广西"
+					}
+		
+		]
+		},
+	"message":""
+}
+
+
+
